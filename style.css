@@ -437,7 +437,36 @@ margin-top: 200px;
 
 
 }
+.section16
+{
+  margin-top: 50px;
+  height: 600px;
+}
+.p34
+{
+  background-color: white;
+  width: 300px;
+  height: 300px;
+  box-shadow: 0px 0px 10px;
+  border-radius: 10px;
 
+}
+.p34_2
+{
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  width: 90%;
+  color: grey;
+}
+.p35
+{
+  display: flex;
+  width: 80%;
+  margin-top: 100px;
+  justify-content: space-between;
+  margin-left: 130px;
+}
 
 
 
@@ -718,7 +747,12 @@ margin-top: 200px;
     width: 65%;
     text-align: center;
   }
-  
+  .p35
+  {
+    width: 97%;
+    margin-left: 0;
+    gap: 10px;
+  }
 
 
 
