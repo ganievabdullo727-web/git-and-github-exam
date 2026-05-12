@@ -373,6 +373,25 @@
   padding: 10px;
   width: 80%;
 }
+.section11
+{
+  height: 700px;
+}
+.obsp29
+{
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin-top: 200px;
+}
+.p29_1
+{
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+  color: grey;
+}
 
 
 
@@ -608,6 +627,25 @@
     width: 100%;
     flex-direction: column;
   }
+  .section11
+  {
+    margin-top: 1500px;
+    width: 100%;
+    height: 900px;
+  }
+  .obsp29
+  {
+    margin-top: 100px;
+    row-gap: 50px;
+    width: 100%;
+    flex-direction: column;
+  }
+  .p29_1
+  {
+    text-align: center;
+  }
+  
+
 
 
 }
